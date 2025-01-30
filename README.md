@@ -8,7 +8,7 @@ For 'Ons Tweede Thuis'(OTT), 'Our Second Home', a Dutch organisation for people 
 For example: I'd like to add a fontsize feature, for clients to be able to choose a different fontsize.
 And it would be marvelous if screenreader features could be added/embedded.
 
-This is my maiden voyage on GitHub. I'm not a programmer, but will try to build my version of Pinafore with a little help from my AI friend.
+This is my maiden voyage on GitHub. I'm not a programmer, but will try to build my version of Pinafore with a little help from my AI friends.
 First to default PinoforeOTT to a bigger font, just by changing the CSS...⚡⚡ I hope 😄
 
 Help appreciated, but for now I will first start studying more GitHub tutorials.
